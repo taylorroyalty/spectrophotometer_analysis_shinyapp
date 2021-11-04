@@ -1,2 +1,1 @@
-# project-submission
-shiny application for GEO590 final project.
+shiny application for analyzing spectrophotomer data.
